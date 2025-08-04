@@ -1,0 +1,3 @@
+[2025-08-02 11:47:23] alice called login → logged in
+[2025-08-02 11:47:23] alice called logout → logged out
+[2025-08-02 11:47:23] bob called delete_account → account deleted

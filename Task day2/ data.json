@@ -1,0 +1,10 @@
+{
+    "name": "Deepak",
+    "age": 25,
+    "city": "surat",
+    "skils": [
+        "python",
+        "databse",
+        "django"
+    ]
+}
